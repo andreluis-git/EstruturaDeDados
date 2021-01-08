@@ -9,11 +9,11 @@
 - qual é o tamanho da lista? 
 - a lista está vazia?
 
-[Resolução](https://github.com/andreluis-git/Lab.-Estrutura-de-Dados/tree/main/exercicio1)
+[Resolução](https://github.com/andreluis-git/EstruturaDeDados/tree/main/LabEstruturaDeDados/exercicio1)
 
 **2) A partir da lista sequencial ListaVetor.java, reescrever a classe CarrinhoDeCompras.java substituindo o uso da classe ArrayList pela ListaVetor. Construa os métodos para adicionar, remover, consultar quantas pizzas há no carrinho de compras. Crie uma classe Principal e nela crie objetos das classes Pizza e CarrinhoDeCompras. Adicione objetos da classe Pizza ao objeto da classe CarrinhoDeCompras. Responda: Quantas pizzas há no carrinho? Remova uma das pizzas do carrinho e responda novamente quantas pizzas há no carrinho. Considerando que os objetos da classe Pizza possuem preço, responda qual é o valor de cada carrinho.**
 
-[Resolução](https://github.com/andreluis-git/Lab.-Estrutura-de-Dados/tree/main/exercicio2)
+[Resolução](https://github.com/andreluis-git/EstruturaDeDados/tree/main/LabEstruturaDeDados/exercicio2)
 
 **3) Transformar a lista encadeada de devem constar na sua pilha:**
 - empilhar()
@@ -22,7 +22,7 @@
 - get(), retorna o elemento que está no topo da pilha, desempilhando. 
 - tamanho(), retorna o tamanho da pilha (quantos elementos há). 
 
-[Resolução](https://github.com/andreluis-git/Lab.-Estrutura-de-Dados/tree/main/exercicio3)
+[Resolução](https://github.com/andreluis-git/EstruturaDeDados/tree/main/LabEstruturaDeDados/exercicio3)
 
 **4) Crie uma Fila de Estudantes, Sequencial e outra Encadeada respeitando a política FIFO. Sua fila deverá ter os seguintes métodos:**
 - enfileirar(), adiciona um novo elemento no fim da fila. 
@@ -30,7 +30,7 @@
 - cabeca(), mostra quem é o 1o elemento da fila. 
 - cauda(), mostra os elementos da cauda da fila. 
 
-[Resolução](https://github.com/andreluis-git/Lab.-Estrutura-de-Dados/tree/main/exercicio4)
+[Resolução](https://github.com/andreluis-git/EstruturaDeDados/tree/main/LabEstruturaDeDados/exercicio4)
 
 **5) O algoritmo recursivo abaixo retorna o maior elemento do vetor. A fim de demonstrar que você entendeu a ideia do algoritmo, apresente um teste de mesa que ilustra de modo criativo o funcionamento do algoritmo.**
 ```
@@ -47,8 +47,8 @@ public static int maior(int v[], int inicio, int fim) {
 } 
 ```
 
-[Resolução](https://github.com/andreluis-git/Lab.-Estrutura-de-Dados/tree/main/exercicio5)
+[Resolução](https://github.com/andreluis-git/EstruturaDeDados/tree/main/LabEstruturaDeDados/exercicio5)
 
 **6) Considerando que você fez a questão 5 corretamente, escreva um algoritmo recursivo que encontra o MENOR elemento do vetor de inteiros sem usar nenhum laço.**
 
-[Resolução](https://github.com/andreluis-git/Lab.-Estrutura-de-Dados/tree/main/exercicio6)
+[Resolução](https://github.com/andreluis-git/EstruturaDeDados/tree/main/LabEstruturaDeDados/exercicio6)
